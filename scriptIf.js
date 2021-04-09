@@ -3,7 +3,7 @@
 // if (4 == 9) {
 //     console.log('Ok'); //true
 // } else {
-//     console.log('Error'); //false
+//     console..log('Error'); //false
 // }
 
 // const num = 50;
